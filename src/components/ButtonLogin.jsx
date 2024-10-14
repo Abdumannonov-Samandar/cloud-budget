@@ -1,5 +1,3 @@
-/* eslint-disable react/jsx-no-undef */
-// import React from 'react'
 
 const ButtonLogin = () => {
 return <button className="btn relative inline-flex items-center justify-start overflow-hidden transition-all hover:bg-white group font-bold text-sm text-white border-white border px-[28px] py-3 rounded-md">
