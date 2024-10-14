@@ -1,8 +1,8 @@
 
-import Logo from '../assets/icons/logo.svg'
-import ButtonLogin from './ButtonLogin'
-import NavHeader from './NavHeader'
-import SelectLanguage from './SelectLanguage'
+import Logo from '/vite.svg'
+import ButtonLogin from '../ButtonLogin'
+import NavHeader from '../NavHeader'
+import SelectLanguage from '../SelectLanguage'
 
 
 

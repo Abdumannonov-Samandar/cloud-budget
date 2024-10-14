@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import FooterListGroup from "./FooterListGroup"
+import FooterListGroup from "../FooterListGroup"
 
 const Footer = () => {
   return (
