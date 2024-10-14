@@ -14,7 +14,7 @@ import VideoSection from "./components/VideoSection"
 
 const App = () => {
   return (
-    <div>
+    <>
       <div className="bg-[url('./assets/images/bg-full.png')] bg-[length:100%_795px] bg-fixed">
             <Header />
             <HeroSection/>
@@ -27,7 +27,7 @@ const App = () => {
             <ContactSection/>
       </main>
       <Footer/>
-    </div>
+    </>
   )
 }
 
