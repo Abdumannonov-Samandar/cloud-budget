@@ -16,7 +16,7 @@ Cloud Budget is a responsive website project that showcases budgeting solutions 
 
 ## Features
 
-- **Responsive Design**: Adapts to various screen sizes, making it mobile and tablet-friendly.
+- **Responsive Design**: Desktop for.
 - **Landing Page**: Modern design with sections for products, testimonials, features, and contact.
 - **Call to Action (CTA)**: Multiple CTAs encourage user interaction throughout the page.
 - **Contact Form**: Simple form for users to send messages.
