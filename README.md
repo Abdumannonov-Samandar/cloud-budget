@@ -34,7 +34,7 @@ Check out the live demo of the project here: [Cloud Budget Demo](https://abduman
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
+To get a local copy up and running, follow these steps::
 
 ### Prerequisites
 
