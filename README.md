@@ -30,7 +30,7 @@ Cloud Budget is a responsive website project that showcases budgeting solutions 
   
 ## Demo
 
-Check out the live demo of the project here: [Cloud Budget Demo](https://abdumannonov-samandar.github.io/cloud-budget/)
+Check out the live demo of the project here: [Cloud Budget Demo](https://tranquil-puppy-393be9.netlify.app/)
 
 ## Getting Started
 
