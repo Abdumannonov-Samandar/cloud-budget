@@ -8,6 +8,7 @@ Cloud Budget is a responsive website project that showcases budgeting solutions 
 - [Technologies](#technologies)
 - [License](#license)
 
+
 ## Features
 
 - **Responsive Design**: Desktop for.
